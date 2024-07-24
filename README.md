@@ -24,7 +24,7 @@ Setup environment:
 3. Arahkan ke folder yang telah dibuat dengan menjalankan perintah berikut. Contoh: `cd student`.
 4. Di terminal, buat virtual environment dengan conda menggunakan perintah berikut.
     ```
-     conda create --name attrition python=3.9.19
+     conda create --name student python=3.9.19
     ```
 3. Aktifkan virtual environment dengan menjalankan perintah berikut.
     ```
@@ -92,7 +92,6 @@ Contoh data yang digunakan:
 |Previous_qualification_grade | 120 |
 |Scholarship_holder | 1 |
 |Tuition_fees_up_to_date | 1 |
-| --- | --- |
 
 Berikut link untuk menjalankan sistem machine learning: [Jaya-Jaya Institute](https://ghifarullah19-jaya-jaya-institute.streamlit.app/)
 
